@@ -1,0 +1,14 @@
+C:\Users\adesh\source\repos\DataStructure\DataStructure\bin\Debug\net6.0\DataStructure.exe
+C:\Users\adesh\source\repos\DataStructure\DataStructure\bin\Debug\net6.0\DataStructure.deps.json
+C:\Users\adesh\source\repos\DataStructure\DataStructure\bin\Debug\net6.0\DataStructure.runtimeconfig.json
+C:\Users\adesh\source\repos\DataStructure\DataStructure\bin\Debug\net6.0\DataStructure.dll
+C:\Users\adesh\source\repos\DataStructure\DataStructure\bin\Debug\net6.0\DataStructure.pdb
+C:\Users\adesh\source\repos\DataStructure\DataStructure\obj\Debug\net6.0\DataStructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adesh\source\repos\DataStructure\DataStructure\obj\Debug\net6.0\DataStructure.AssemblyInfoInputs.cache
+C:\Users\adesh\source\repos\DataStructure\DataStructure\obj\Debug\net6.0\DataStructure.AssemblyInfo.cs
+C:\Users\adesh\source\repos\DataStructure\DataStructure\obj\Debug\net6.0\DataStructure.csproj.CoreCompileInputs.cache
+C:\Users\adesh\source\repos\DataStructure\DataStructure\obj\Debug\net6.0\DataStructure.dll
+C:\Users\adesh\source\repos\DataStructure\DataStructure\obj\Debug\net6.0\refint\DataStructure.dll
+C:\Users\adesh\source\repos\DataStructure\DataStructure\obj\Debug\net6.0\DataStructure.pdb
+C:\Users\adesh\source\repos\DataStructure\DataStructure\obj\Debug\net6.0\DataStructure.genruntimeconfig.cache
+C:\Users\adesh\source\repos\DataStructure\DataStructure\obj\Debug\net6.0\ref\DataStructure.dll
